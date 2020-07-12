@@ -12,3 +12,4 @@ out/
 .classpath
 src/main/webapp/avatar/*
 !src/main/webapp/avatar/defaultAvatar.png
+node_modules/
