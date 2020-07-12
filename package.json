@@ -1,0 +1,25 @@
+{
+  "name": "connectify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "cypress": "^4.10.0",
+    "chance": "^1.1.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isagues/pruebaCircleCi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isagues/pruebaCircleCi/issues"
+  },
+  "homepage": "https://github.com/isagues/pruebaCircleCi#readme"
+}
